@@ -1,6 +1,8 @@
+<p align="center">
+  <img width="400" src="https://rmyz.dev/me.png">
+</p>
 
-<img width="400" src="https://rmyz.dev/me.png">
-
+</br>
 
 👨🏻‍💻 Hi! I'm Sergi Romeu, a full stack web developer.
 
