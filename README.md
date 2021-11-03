@@ -12,8 +12,9 @@
 
 ## I'm passionate about:
 
-- 🖥 Web development
-- 🎵 Music and Mixing 🎛️
+- 🖥  Web development
+- 🎵 Music
+- 🎮 Gaming
 
 </br>
 
