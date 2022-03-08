@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://rmyz.dev/me.png">
+  <img width="400" src="https://rmyz.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fme.7156507a.png&w=640&q=100">
 </p>
 
 </br>
